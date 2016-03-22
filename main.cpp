@@ -2,7 +2,6 @@
  * File:   main.cpp
  * Author: G. De Concini
  *
- * Created on 08 February 2016, 23:46
  */
 
 #include <cstdlib>

@@ -1,3 +1,8 @@
+/* 
+ * File:   RotatingSequence.cpp
+ * Author: G. De Concini
+ *
+ */
 #include "RotatingSequence.h"
 #include <numeric>
 #include <iostream>

@@ -2,7 +2,6 @@
  * File:   Gordon.cpp
  * Author: G. De Concini
  * 
- * Created on 09 February 2016, 00:36
  */
 
 #include "Gordon.h"

@@ -1,8 +1,7 @@
 /* 
  * File:   Status.h
- * Author: crowbar
+ * Author: G. De Concini
  *
- * Created on 10 February 2016, 00:07
  */
 
 #ifndef STATUS_H

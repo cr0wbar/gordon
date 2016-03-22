@@ -1,8 +1,7 @@
 /* 
- * File:   SizedLifo.h
- * Author: crowbar
+ * File:   RotatingSequence.h
+ * Author: G. De Concini
  *
- * Created on 20 March 2016, 17:22
  */
 
 #ifndef ROTATINGSEQUENCE_H
