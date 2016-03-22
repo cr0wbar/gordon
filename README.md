@@ -1,6 +1,6 @@
 # gordon
 A Markov chain text generator similar to the [Mark V. Shaney](https://en.wikipedia.org/wiki/Mark_V._Shaney) 
-synthetic USENET user. `gordon` reads words from an input file and writes an arbitrary number of words to
+synthetic USENET user, written in C++. `gordon` reads words from an input file and writes an arbitrary number of words to
 another file.
 The output does not make any sense most of the times, and usually offers some hilarious mix-ups.
 
